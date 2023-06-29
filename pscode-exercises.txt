@@ -1,10 +1,14 @@
 // Exercise 1: Calculate the Sum of Two Numbers
 
-(Your pseudocode here)
+Number a plus number b equal to number c
 
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+An even number is a number that can be divided by exactly 2
+You divide the number by 2
+Check if there is no remainder
+If there is no remainder the number is even
+If there is a remainder the number is odd
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
@@ -14,6 +18,26 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+Read numbers a to e and save it for later
+Number a plus number b plus number c plus number d plus number e equal number f
+Divide number f by 5 and save it in "average" to display it later
+Set number a as the largest number "maximum" 
+
+Check if maximum is larger than number b
+If maximum is larger keep it as is
+If number b is larger set maximum equal to b
+Repeat the last three steps for number c d and e
+
+Set number a as the smallest number "minimum" 
+
+Check if minimum is smaller than number b
+If minimum is smaller keep it as is
+If number b is smaller set minimum equal to b
+Repeat the last three steps for number c d and e
+
+Write out "the average of the last five numbers is (average), the smallest is (minimum), the largest (maximum)"
+
+
+ 
 
 -- END --
